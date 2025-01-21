@@ -3,4 +3,4 @@
 - Estado del proyecto: En desarrollo.
   
 ## Para ejecutar el programa debes ser valiente.
-``` Actualiza el README ´´´
+```Actualiza el README´´´
